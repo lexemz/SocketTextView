@@ -13,6 +13,7 @@
 		F9D34DB529E4B538006FCCAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9D34DB329E4B538006FCCAE /* Main.storyboard */; };
 		F9D34DB729E4B539006FCCAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9D34DB629E4B539006FCCAE /* Assets.xcassets */; };
 		F9D34DBA29E4B539006FCCAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9D34DB829E4B539006FCCAE /* LaunchScreen.storyboard */; };
+		F9D34DC229E4B5F9006FCCAE /* Websocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D34DC129E4B5F9006FCCAE /* Websocket.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F9D34DB629E4B539006FCCAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9D34DB929E4B539006FCCAE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9D34DBB29E4B539006FCCAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9D34DC129E4B5F9006FCCAE /* Websocket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Websocket.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F9D34DAD29E4B538006FCCAE /* AppDelegate.swift */,
 				F9D34DAF29E4B538006FCCAE /* SceneDelegate.swift */,
 				F9D34DB129E4B538006FCCAE /* ViewController.swift */,
+				F9D34DC129E4B5F9006FCCAE /* Websocket.swift */,
 				F9D34DB329E4B538006FCCAE /* Main.storyboard */,
 				F9D34DB629E4B539006FCCAE /* Assets.xcassets */,
 				F9D34DB829E4B539006FCCAE /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9D34DB229E4B538006FCCAE /* ViewController.swift in Sources */,
+				F9D34DC229E4B5F9006FCCAE /* Websocket.swift in Sources */,
 				F9D34DAE29E4B538006FCCAE /* AppDelegate.swift in Sources */,
 				F9D34DB029E4B538006FCCAE /* SceneDelegate.swift in Sources */,
 			);
